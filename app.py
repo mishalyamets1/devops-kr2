@@ -1,3 +1,4 @@
+# KR2: Lyamets
 import os
 import socket
 
